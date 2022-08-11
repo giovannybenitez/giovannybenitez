@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @giovannybenitez
-- 👀 I’m interested in full stack softaware developer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects with java and spring boot
-- 📫 How to reach me benitezjgio@gmail.com
+Hi, I'm Giovanny.
+ 
+I studied software engineering, passionate about the Java ecosystem, Spring and REST APIs.
+ 
+Today, I am focused on providing solutions at the software level, creating ONLINE courses and, above all, helping the Java community to enrich this knowledge to make programming a 100% fun space.
+ 
+👉🏻 How to reach me benitezjgio@gmail.com
+
 
 <!---
 giovannybenitez/giovannybenitez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
