@@ -1,8 +1,8 @@
 Hi, I'm Giovanny.
- 
-I studied software engineering, passionate about the Java ecosystem, Spring and REST APIs.
- 
-Today, I am focused on providing solutions at the software level, creating ONLINE courses and, above all, helping the Java community to enrich this knowledge to make programming a 100% fun space.
+
+I am a software engineering student, passionate about the Java ecosystem, Spring and REST APIs.
+
+I am focused on providing solutions at the software level, providing advice and, above all, helping the Java community to enrich this knowledge to make programming an excellent space
  
 👉🏻 How to reach me https://hotm.art/giovannybenitez
 
