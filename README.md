@@ -1,8 +1,14 @@
 Hi, I'm Giovanny.
 
-I am a software engineering student, passionate about the Java ecosystem, Spring and REST APIs.
+I am a software engineering student with a passion for the Java ecosystem, Spring and REST APIs. My focus is on acquiring and applying knowledge in backend programming, especially in languages such as Java, Spring Boot and Python.
 
-I am focused on providing solutions at the software level, providing advice and, above all, helping the Java community to enrich this knowledge to make programming an excellent space.
+With a strong background and skills in software development, I am excited to explore new technologies and stay current in a field as dynamic as programming. My strength lies in working as a team and developing agile solutions that drive project success.
+
+I love providing software-level solutions and mentoring others, especially in the Java community, to enrich their knowledge and foster a great programming environment.
+
+As a student, I am committed to my professional growth and constantly seek opportunities that allow me to learn and develop in this exciting industry.
+
+If you are interested in collaborating on challenging projects or if you would like to discuss Java and software development related topics, feel free to contact me!
  
 👉🏻 How to reach me https://hotm.art/giovannybenitez
 
